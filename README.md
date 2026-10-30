@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34187115/README.md)
+[README.md]([https://guilhermegdsfrr.github.io/Dio-Desafio/)
 # Painel de vendas Porsche
 
 Dashboard em HTML (arquivo único) que responde perguntas de negócio sobre 100 vendas fictícias de Porsche no Brasil, de 2021 a 2025. Feita para o desafio do Curso Criando Agentes de Tratamento de Dados (DIO).
